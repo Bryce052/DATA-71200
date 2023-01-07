@@ -1,1 +1,2 @@
-This Github repository is for DATA 71200 (Advanced Data Anaylsis) at the CUNY GC. 
+This repository (final portfolio) is for DATA 71200: Advanced Data Analysis at the City University of New york (CUNY) Graduate center. 
+This course covered the Python programming language. This Github workspace includes the completed class tutorials (with code, associated data files, deployed web page links) and the final project in the class. Readme guides have been provided for each completed tutorial and the final project in the course.
